@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #f4f6f8;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  text-align: center;
+}
+
+.MuiCard-root {
+  transition: 0.3s;
+}
+
+.MuiCard-root:hover {
+  transform: translateY(-3px);
+}
